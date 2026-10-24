@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm environment settings
+.idea/
+
+# Data science files - ignore data and submissions
+data/
+submission.csv
+venv/
